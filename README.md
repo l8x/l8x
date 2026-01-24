@@ -17,4 +17,4 @@ class Developer:
             "backend": "Python & Java Developer Groups",
             "fullstack": "Full-Stack Web Development"
         }
-        self.goal: str = "100k in a yea
+        self.goal: str = "100k in a year"
