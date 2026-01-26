@@ -18,3 +18,6 @@ class Developer:
             "fullstack": "Full-Stack Web Development"
         }
         self.goal: str = "100k in a year"
+
+
+ffc
