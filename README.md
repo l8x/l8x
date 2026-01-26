@@ -19,3 +19,4 @@ class Developer:
         }
         self.goal: str = "100k in a year"
 
+kxmdsmm
