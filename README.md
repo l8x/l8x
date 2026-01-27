@@ -11,6 +11,7 @@ class Developer:
     def __init__(self):
         self.code: List[str] = ["Javascript", "HTML", "CSS", "Python", "Java"]
         self.tools: List[str] = ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"]
+        self.hardware: List[str] = ["Raspberry Pi", "Arduino", "ESP32"]
         self.architecture: List[str] = ["Relational databases", "MVC architecture", "REST APIs"]
         self.techCommunities: Dict[str, str] = {
             "frontend": "React & JavaScript Communities",
