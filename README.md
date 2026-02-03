@@ -19,4 +19,5 @@ class Developer:
             "fullstack": "Full-Stack Web Development"
         }
         self.goal: str = "100k in a year"
+        self.goal: str = "Become fluent in german 2026" 
 
