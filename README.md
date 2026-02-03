@@ -20,4 +20,4 @@ class Developer:
         }
         self.goal: str = "100k in a year"
         self.goal: str = "Become fluent in german 2026" 
-
+        self.goal: str = "Get rid of all operationals"
